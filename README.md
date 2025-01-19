@@ -1,0 +1,2 @@
+# Fine-Tuning-T5-Flan-with-Reinforcement-Learning-and-Toxicity-Aware-Reward-Models
+Fine-tuned T5 Flan using TRL's PPO Trainer with a Roberta-based toxicity classifier as a reward model. A custom toxic prompt dataset guided the model to reduce harmful outputs. Training on GPU ensured efficiency, yielding a model that generates contextually relevant, low-toxicity text, combining RL with toxicity-aware learning.
